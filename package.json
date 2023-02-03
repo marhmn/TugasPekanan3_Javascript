@@ -1,0 +1,19 @@
+{
+  "name": "tugaspekanan3",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "node soal1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marhmn/tugasPekanan3_Javascript.git"
+  },
+  "author": "marhmn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marhmn/tugasPekanan3_Javascript/issues"
+  },
+  "homepage": "https://github.com/marhmn/tugasPekanan3_Javascript#readme"
+}
